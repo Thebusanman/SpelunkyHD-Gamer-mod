@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Mods>
+<Mod>
+	<!-- Name of the mod. -->
+	<Name>Heavy meme pack</Name>
+
+	<!-- Unique ID for the mod, used for detecting duplicates, etc. -->
+	<Id>patchlunky-heavyMeme</Id>
+
+	<!-- Version number or string for the mod. -->
+	<Version>0.6</Version>
+
+	<!-- The date the mod was finished, in YYYY-MM-DD format. -->
+	<Date>2018-06-02</Date>
+
+	<!-- Name of the author(s) of the mod. -->
+	<Author>Busan</Author>
+
+	<!-- Contact email for the mod. -->
+	<!-- <Email>author@website.net</Email> -->
+
+	<!-- Web address for the mod. -->
+	<!-- <WebUrl>www.website.com</WebUrl> -->
+
+	<!-- The description of the mod. -->
+	<!-- <Description>Test description</Description> -->
+
+	<!-- Path to text file with description, overrides 'Description' tag. -->
+	<TextFile>readme.txt</TextFile>
+
+	<!-- Image displayed for the mod in the mod manager. -->
+	<PreviewImage>picture.png</PreviewImage>
+
+	<!-- Minimum Patchlunky version required for the mod to work. -->
+	<PatchlunkyVersion>1.0.0.2</PatchlunkyVersion>
+
+	<!-- Set to true to copy any matching file from the mod folders. -->
+	<PatchDefaultFiles>true</PatchDefaultFiles>
+
+
+</Mod>
+</Mods>

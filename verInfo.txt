@@ -1,0 +1,48 @@
+0.1
+
+{ Music added:
+
+A01_A.ogg
+A02_B.ogg
+A03_yeti.ogg
+Action_mxA.ogg
+Action_mxB.ogg
+amb_mines.ogg
+Lobby_jingle.ogg
+Menu.ogg
+Shop_gameshow.ogg
+Shop_radio_1.ogg
+Shop_radio_2.ogg
+}
+
+{ Textures changed (alltex)
+
+{ ALLTILES - alltiles.png
+[Dart trap mines/ice tileset
+}
+
+{ ANYLEVEL
+{ ankh.png
+gachi ankh 
+}
+{ breakankg.png
+Gachi ankh and break animation 
+}
+{ playerhud.png
+Death icon, bombs 
+}
+{ rubble.png
+Giant spider smör rubble}
+}
+}
+}
+
+
+{ Non-applied changes
+
+{ MINE
+{ minessmallbg.png
+[Kali edit not working]
+]
+
+
