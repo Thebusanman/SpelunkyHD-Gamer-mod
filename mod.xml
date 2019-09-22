@@ -2,16 +2,16 @@
 <Mods>
 <Mod>
 	<!-- Name of the mod. -->
-	<Name>Heavy meme pack</Name>
+	<Name>Heavy meme pack CloudSurfer Music BETA</Name>
 
 	<!-- Unique ID for the mod, used for detecting duplicates, etc. -->
-	<Id>patchlunky-heavyMeme</Id>
+	<Id>patchlunky-heavyMemeBETA</Id>
 
 	<!-- Version number or string for the mod. -->
-	<Version>0.6</Version>
+	<Version>0.7 Beta</Version>
 
 	<!-- The date the mod was finished, in YYYY-MM-DD format. -->
-	<Date>2018-06-02</Date>
+	<Date>2018-09-22</Date>
 
 	<!-- Name of the author(s) of the mod. -->
 	<Author>Busan</Author>
